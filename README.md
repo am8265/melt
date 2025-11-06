@@ -5,7 +5,7 @@ It validates input files, configures genome build–specific resources (hg19 or 
 
 ---
 
-## Tools Used
+## Tools and Data Files Used
 
 - **Java (MELT.jar)** – core engine for MEI detection
 - **BWA-aligned BAM**, **reference FASTA**, and **BED annotation files** – input data resources
@@ -18,5 +18,3 @@ Running MELT manually for each WGS sample was **time-consuming and error-prone**
 This script standardized input handling, added validation and logging, and enabled **reproducible, large-scale MEI discovery** across multiple genomes.
 
 ---
-
-*(Author: Ayan Malakar)*
