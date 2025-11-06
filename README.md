@@ -1,6 +1,6 @@
 # `run_MELT_2.2.2.sh`
 
-This Bash script automates running **MELT v2.2.2 (Mobile Element Locator Tool)** to detect **mobile element insertions (MEIs)** in whole-genome sequencing (WGS) data.
+This Bash script automates running **[MELT v2.2.2 (Mobile Element Locator Tool)](https://melt.igs.umaryland.edu/)** to detect **mobile element insertions (MEIs)** in whole-genome sequencing (WGS) data.
 It validates input files, configures genome build–specific resources (hg19 or hg38), and executes MELT’s *Single* mode with consistent parameters and logging.
 
 ---
